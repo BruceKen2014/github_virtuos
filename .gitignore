@@ -6,8 +6,11 @@ bin/
 ipch/
 *.obj
 *.pcb
+*.pch
 *.pdb
 *.ilk
 *.tlog
 *.sdf
 *.suo
+*.idb
+*.lastbuildstate
