@@ -1,0 +1,13 @@
+#################
+## ignore some files or path that you dont want to submit to github
+#################
+
+bin/
+ipch/
+*.obj
+*.pcb
+*.pdb
+*.ilk
+*.tlog
+*.sdf
+*.suo
