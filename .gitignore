@@ -4,6 +4,9 @@
 
 bin/
 ipch/
+_UpgradeReport_Files/
+UpgradeLog.XML
+*.unsuccessfulbuild
 *.obj
 *.pcb
 *.pch
@@ -14,3 +17,9 @@ ipch/
 *.suo
 *.idb
 *.lastbuildstate
+*.opensdf
+*.Build.CppClear.log
+*.log
+*.opensdf
+*.cache
+*.aps
