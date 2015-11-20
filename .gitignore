@@ -18,8 +18,12 @@ UpgradeLog.XML
 *.idb
 *.lastbuildstate
 *.opensdf
+<<<<<<< HEAD
 *.Build.CppClear.log
 *.log
 *.opensdf
 *.cache
 *.aps
+=======
+*.log
+>>>>>>> origin/master
